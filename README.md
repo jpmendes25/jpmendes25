@@ -17,7 +17,7 @@
 ### My name is João Pedro (a.k.a "Jones")
 
 <p align="left">
-  📌 Juiz de Fora(MG) - Brazil
+  📌 Juiz de Fora (MG) - Brazil
 </p>
 <p align="left">
   ⚙️ Graduating in Mechatronics Engineering from the IF Sudeste MG (Brazil)
