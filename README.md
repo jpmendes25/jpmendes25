@@ -31,6 +31,3 @@
 <p align="left">
   🔎 Researcher (you could see my academic curriculum <a href="http://lattes.cnpq.br/9159094863227542" target="_blank" rel="noreferrer noopener">here</a>)
 </p>
-<p align="left">
-  ✈️ I have the dream to move to Québec (QC) - Canada
-</p>
