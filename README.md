@@ -21,6 +21,8 @@
 </p>
 <p align="left">
   🎓 Master’s Degree Student in Computer Science from the UFSJ (Brazil)
+</p>
+<p align="left">
   🎓 Bachelor of Mechatronics Engineer from the IF Sudeste MG (Brazil)
 </p>
 <p align="left">
