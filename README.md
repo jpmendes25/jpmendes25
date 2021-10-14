@@ -20,13 +20,11 @@
   📌 Juiz de Fora (MG) - Brazil
 </p>
 <p align="left">
-  ⚙️ Graduating in Mechatronics Engineering from the IF Sudeste MG (Brazil)
+  🎓 Master’s Degree Student in Computer Science from the UFSJ (Brazil)
+  🎓 Bachelor of Mechatronics Engineer from the IF Sudeste MG (Brazil)
 </p>
 <p align="left">
   🎹 Musician and music producer (<a href="https://www.instagram.com/jonesmendesmusic/" alt="Instagram" target="_blank" rel="noreferrer noopener">Instagram</a> - <a href="https://www.youtube.com/channel/UC-jjPWs9154hKTBbF_zHwnw?view_as=subscriber&pbjreload=101" alt="YouTube" target="_blank" rel="noreferrer noopener">YouTube</a>)
-</p>
-<p align="left">
-  💻 Future developer in a learning process
 </p>
 <p align="left">
   🔎 Researcher (you could see my academic curriculum <a href="http://lattes.cnpq.br/9159094863227542" target="_blank" rel="noreferrer noopener">here</a>)
